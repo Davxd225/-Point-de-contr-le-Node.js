@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "buildTime": "2026-10-17T19:16:58.167Z",
+  "fileCount": 8,
+  "files": [
+    {
+      "path": "hello-world.js",
+      "size": 0,
+      "score": 0.1
+    },
+    {
+      "path": "server.js",
+      "size": 0,
+      "score": 0.1
+    },
+    {
+      "path": "file-demo.js",
+      "size": 0,
+      "score": 0.1
+    },
+    {
+      "path": "welcome.txt",
+      "size": 10,
+      "score": 0.02
+    },
+    {
+      "path": "package.json",
+      "size": 278,
+      "score": 0.15
+    },
+    {
+      "path": "package-lock.json",
+      "size": 582,
+      "score": 0.05
+    },
+    {
+      "path": "password-generator.js",
+      "size": 0,
+      "score": 0.1
+    },
+    {
+      "path": "email-sender.js",
+      "size": 0,
+      "score": 0.1
+    }
+  ]
+}
